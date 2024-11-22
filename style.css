@@ -1,0 +1,33 @@
+.uicard {
+    height: 450px;
+    width: 450px;
+    background-image: url(liz-pic.png);
+    background-repeat: no-repeat;
+    background-size: 450px 250px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #6c757d;
+}
+
+#p1 {
+    margin-left: 25px;
+    font-family: Inter;
+    font-size: 30px;
+    color: black;
+}
+
+
+
+p {
+    margin-left: 25px;
+    font-family: Inter;
+    color: #6c757d;
+    font-size: 19px;
+}
+
+#parrent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
